@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glass Act Window Cleaning NW | Lancashire Window Cleaners</title>
+
+    <!-- SEO -->
+    <meta name="description" content="Glass Act Window Cleaning NW provides professional, streak-free window cleaning across Lancashire. Residential, commercial, gutters, conservatories & more.">
+    <meta name="keywords" content="window cleaning Lancashire, window cleaners NW, gutter cleaning Lancashire, conservatory cleaning, Glass Act Window Cleaning NW">
+    <meta name="author" content="Glass Act Window Cleaning NW">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+            color: #222;
+        }
+        header {
+            background: #ffffff;
+            padding: 20px 40px;
+            border-bottom: 1px solid #ddd;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 34px;
+            letter-spacing: 1px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #0077cc;
+            font-weight: bold;
+        }
+        .hero {
+            background: linear-gradient(to bottom right, #dff1ff, #ffffff);
+            padding: 80px 20px;
+            text-align: center;
+        }
+        .hero h2 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+        .hero p {
+            font-size: 18px;
+            margin-bottom: 25px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 12px 25px;
+            background: #0077cc;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        section {
+            padding: 60px 40px;
+            background: #fff;
+            margin: 20px auto;
+            max-width: 1000px;
+            border-radius: 8px;
+        }
+        h3 {
+            font-size: 28px;
+            margin-bottom: 15px;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        .gallery img {
+            width: 100%;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+        form input, form textarea {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+        form button {
+            padding: 12px 20px;
+            background: #0077cc;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        footer {
+            text-align: center;
+            padding: 30px;
+            background: #ffffff;
+            border-top: 1px solid #ddd;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Glass Act Window Cleaning NW</h1>
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#booking">Book Online</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<div class="hero">
+    <h2>Professional Window Cleaning Across Lancashire</h2>
+    <p>Reliable • Affordable • Streak‑Free Shine Every Time</p>
+    <a class="btn" href="#booking">Book a Clean</a>
+</div>
+
+<section id="services">
+    <h3>Our Services</h3>
+    <ul>
+        <li>Residential Window Cleaning</li>
+        <li>Commercial Window Cleaning</li>
+        <li>Conservatory & Roof Panel Cleaning</li>
+        <li>Gutter Clearing & Unblocking</li>
+        <li>Solar Panel Cleaning</li>
+        <li>One‑off or Regular 4/8 Week Rounds</li>
+    </ul>
+</section>
+
+<section id="gallery">
+    <h3>Gallery</h3>
+    <p>Before & after results from recent cleans.</p>
+    <div class="gallery">
+        <img src="https://via.placeholder.com/400x300?text=Before+%2F+After+1" alt="Window cleaning example 1">
+        <img src="https://via.placeholder.com/400x300?text=Before+%2F+After+2" alt="Window cleaning example 2">
+        <img src="https://via.placeholder.com/400x300?text=Before+%2F+After+3" alt="Window cleaning example 3">
+        <img src="https://via.placeholder.com/400x300?text=Before+%2F+After+4" alt="Window cleaning example 4">
+    </div>
+</section>
+
+<section id="pricing">
+    <h3>Pricing</h3>
+    <ul>
+        <li>Standard Home Clean — from £15</li>
+        <li>Large Property — from £25</li>
+        <li>Commercial Properties — custom quotes</li>
+        <li>Gutter Clearing — from £40</li>
+        <li>Conservatory Roof — from £30</li>
+    </ul>
+</section>
+
+<section id="booking">
+    <h3>Online Booking</h3>
+    <p>Fill out the form below and we’ll get back to you within 24 hours.</p>
+    <form action="mailto:glassactcleaning.nw@gmail.com" method="POST" enctype="text/plain">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="text" name="address" placeholder="Your Address" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="text" name="phone" placeholder="Your Phone Number" required>
+        <textarea name="message" rows="5" placeholder="Tell us what you need…" required></textarea>
+        <button type="submit">Send Booking Request</button>
+    </form>
+</section>
+
+<section id="contact">
+    <h3>Contact Us</h3>
+    <p><strong>Phone:</strong> 07504 515855</p>
+    <p><strong>Email:</strong> glassactcleaning.nw@gmail.com</p>
+    <p><strong>Service Area:</strong> Lancashire</p>
+    <a class="btn" href="mailto:glassactcleaning.nw@gmail.com">Email Us</a>
+</section>
+
+<footer>
+    © 2026 Glass Act Window Cleaning NW — All Rights Reserved
+</footer>
+
+</body>
+</html>
